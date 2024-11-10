@@ -17,6 +17,7 @@ after that open cmd and run `npm run dev`
 ## srecenshot of ui
 
 ### Login Page
+![login](https://github.com/sahihai12/home-page-next/blob/main/desktop.png)
 look in sidebar login.png
 
 ### SignUp Page
