@@ -17,23 +17,20 @@ after that open cmd and run `npm run dev`
 ## srecenshot of ui
 
 ### Login Page
-![login](https://github.com/sahihai12/home-page-next/blob/main/desktop.png)
-look in sidebar login.png
+![](https://github.com/sahihai12/home-page-next/blob/main/login.png)
 
 ### SignUp Page
-look in sidebar signup.png
-
+![](https://github.com/sahihai12/home-page-next/blob/main/signup%20(2).png)
 
 ### click on search icon and after click on overlay you can close the search popup/modal
-look in sidebar searchopen.png
+![](https://github.com/sahihai12/home-page-next/blob/main/open-search.png)
 
 ### home desktop
-look in sidebar homedesktop.png
-
+![](https://github.com/sahihai12/home-page-next/blob/main/desktop.png)
 
 ### home mobile
-look in sidebar homemobile.png
-look in sidebar homenav.png
+![](https://github.com/sahihai12/home-page-next/blob/main/mobile.png)
+![](https://github.com/sahihai12/home-page-next/blob/main/mobile%20menu.png)
 
 
 ### MY website link
